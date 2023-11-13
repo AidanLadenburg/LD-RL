@@ -6,4 +6,5 @@
 #### Includes multiple reward functions and an optional GUI
 
 Example PPO model training process:
+
 https://user-images.githubusercontent.com/43151719/216490691-54caf3f1-be2d-4ed3-8bf5-c6dde92c639a.mp4
