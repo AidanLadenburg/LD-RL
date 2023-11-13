@@ -3,7 +3,7 @@
 #### Laser Dodge is a custom game where the player character attempts to last as long as possible while dodging the incoming lasers
 #### The system uses the Gym library format. 
 
-#### Includes multiple reward functions and an optional GUI
+#### Includes multiple reward functions, multiple input formats, and an optional GUI
 
 Example PPO model training process:
 
